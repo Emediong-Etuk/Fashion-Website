@@ -1,0 +1,79 @@
+.font-style{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px;
+}
+
+.overflow{
+    overflow-x: hidden;
+}
+
+.gold{
+    color:rgba(165,42,42,0.8);
+}
+
+.piles{
+    width: 400px;
+    height: 500px;
+
+}
+
+.sneakers{
+    height: 200px;
+    width: 400px;
+}
+.purse{
+    height: 200px;
+    width: 400px;
+}
+
+.skirt{
+    width: 400px;
+    height: 600px;
+}
+.white{
+    width: 500px;
+    height: 600px;
+}
+.man{
+    width: 500px;
+    height: 600px;
+}
+.kids{
+    width: 700px;
+    height: 600px;
+}
+
+.whiteman{
+    height: 500px;
+}
+.walkway{
+    height: 500px;
+}
+.pocket{
+    height: 500px;
+}
+
+.oneleg{
+    height: 400px;
+}
+.waist{
+    height: 400px;
+}
+.bag{
+    height: 400px;
+}
+.cap{
+    height: 300px;
+}
+.boy{
+    height: 300px;
+}
+.twins{
+    height: 300px;
+}
+
+
+
+.font-styles{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
