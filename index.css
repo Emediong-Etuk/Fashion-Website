@@ -77,3 +77,55 @@
 .font-styles{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+/* FOOTER SECTION */
+footer {
+    background: #1A1818;
+    color: #ffffff;
+    margin-bottom: 0;
+    padding: 2px;
+}
+footer a {
+    text-decoration: none;
+    color: #ffffff;
+    display: block;
+}
+.footer {
+    width: 1000px;
+    height: 224px;
+    margin: 71px 134px 0px 50px;
+    display: flex;
+    line-height: 20px;
+    justify-content: space-between;
+}
+.help {
+    width: 176px;
+    height: 110px;
+}
+.space-up {
+    margin-bottom: 13px;
+}
+footer hr {
+    color: #ffffff;
+}
+.social {
+    display: flex;
+    gap: 10px;
+
+}
+.footer2 {
+    line-height: 50px;
+    justify-content: flex-start;
+    gap: 80px;
+}
+.stay {
+    margin-left: 72px;
+}
+.payment {
+    margin-left: 10px;
+}
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
