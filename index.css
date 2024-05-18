@@ -101,14 +101,14 @@ footer a {
     color: #ffffff;
     display: block;
 }
-.footer {
+/* .footer {
     width: 1000px;
     height: 224px;
     margin: 71px 134px 0px 50px;
     display: flex;
     line-height: 20px;
     justify-content: space-between;
-}
+} */
 .help {
     width: 176px;
     height: 110px;
