@@ -1,0 +1,417 @@
+  /* Header*/  
+.font-style{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    padding-right: 100px;
+}
+/* body second page*/
+.fimage{
+    background-image: url(images/image1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.text-fimage{
+    padding-top: 150px;
+    color: white;
+    margin: 5px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    font-size: 30px ;
+}
+.secimage{
+    height: 500px;
+}
+.simage{
+    background-image: url(images/image2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 250px;
+    
+}
+.timage{
+    background-image: url(images/image3.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 250px;
+    margin-left: 30px;
+}
+.trimage{
+    background-image: url(images/image4.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 250px;
+    margin-left: 30px;
+}
+.frimage{
+    background-image: url(images/image5.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 250px;
+    margin-left: 30px;
+}
+.ftimage{
+    background-image: url(images/image6.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 250px;
+    margin-left: 30px;
+}
+.stext{
+    color: white;
+    font-size: 20px;
+    padding-top: 350px;
+    padding-left: 30px;
+}
+.ttext{
+    color: white;
+    font-size: 20px;
+    padding-top: 350px;
+    padding-left: 30px;
+}
+.tritext{
+    color: white;
+    font-size: 20px;
+    padding-top: 350px;
+    padding-left: 30px;
+}
+.frtext{
+    color: white;
+    font-size: 20px;
+    padding-top: 350px;
+    padding-left: 30px;
+}
+.thimage{
+    height: 500px;
+    margin-top: 30px;
+}
+.eimage{
+    background-image: url(images/image7.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 655px;
+    margin-right: 20px;
+}
+.nimage{
+    background-image: url(images/image8.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 655px;
+    margin-left: 20px;
+}
+.etext{
+    color: white;
+    font-size: 40px;
+    padding-top: 220px;
+    padding-left: 150px;
+}
+.ebtext{
+     color: white;
+     font-size: 30px;
+     padding-left: 60px;
+     padding-top: 30px;
+}
+.ntext{
+     color: white;
+     font-size: 40px;
+     padding-top: 230px;
+     padding-left: 150px;
+}
+.nbtext{
+     color: white;
+     font-size: 30px;
+     padding-left: 60px;
+     padding-top: 70px;
+} 
+.text{
+    margin-top: 40px;
+    padding-left: 43%;
+}
+.atext{
+    font-size: 30px;
+    color: rgb(3, 66, 3);
+}
+.teimage{
+    background-image: url(images/image9.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 535px;
+    width: 650px;
+    margin-top: 20px;
+}
+.tetext{
+    color: white;
+    padding-top: 300px;
+    font-size: 35px;
+    padding-left: 60px;
+}
+.textb{
+    margin-top: 40px;
+    padding-left: 43%;
+}
+.btext{
+    font-size: 30px;
+    color: rgb(3, 66, 3);
+}
+.lasimage{
+    height: 500px;
+}
+.elimage{
+    background-image: url(images/image10.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 250px;
+    
+}
+.twimage{
+    background-image: url(images/image12.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 250px;
+    margin-left: 30px;
+}
+.terimage{
+    background-image: url(images/image13.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 250px;
+    margin-left: 30px;
+}
+.fotimage{
+    background-image: url(images/image14.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 250px;
+    margin-left: 30px;
+}
+.fifimage{
+    background-image: url(images/image15.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 250px;
+    margin-left: 30px;
+}
+.siximage{
+    background-image: url(images/image16.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 535px;
+    width: 654px;
+    margin-top: 40px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+}
+.sixtext{
+    font-size: 40px;
+    padding-top: 60%;
+    color: white;
+    padding-left: 80px;
+}
+.sevimage{
+    background-image: url(images/image17.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 535px;
+    width: 654px;
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-bottom: 40px;
+}
+.sevtext{
+    color: white;
+    font-size: 40px;
+    padding-left: 70px;
+    padding-top: 60%;
+}
+/* FOOTER SECTION */
+footer {
+    background: #1A1818;
+    color: #ffffff;
+    margin-bottom: 0;
+    padding: 2px;
+}
+footer a {
+    text-decoration: none;
+    color: #ffffff;
+    display: block;
+}
+.help {
+    width: 176px;
+    height: 110px;
+}
+.space-up {
+    margin-bottom: 13px;
+}
+footer hr {
+    color: #ffffff;
+}
+.social {
+    display: flex;
+    gap: 10px;
+
+}
+.footer2 {
+    line-height: 50px;
+    justify-content: flex-start;
+    gap: 80px;
+}
+.stay {
+    margin-left: 72px;
+}
+.payment {
+    margin-left: 10px;
+}
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+@media screen and (min-width:1582px) and (max-width:2560px) {
+    .fimage{
+        width: auto;
+        height: 1000px;
+        
+    }
+    .text-fimage{
+        font-size: 80px;
+        padding-top: 400px;
+    }
+    .secimage{
+        margin-top: 60px;
+        width: auto;
+    }
+    .simage{
+        width: 480px;
+        height: 800px;
+        
+    }
+    .stext{
+        font-size: 50px;
+        padding-left: 50px;
+        padding-top:500px;
+    }
+    .ttext{
+        font-size: 50px;
+        padding-left: 50px;
+        padding-top:500px;
+    }
+    .tritext{
+        font-size: 50px;
+        padding-left: 50px;
+        padding-top:500px;
+    }
+    .frtext{
+        font-size: 50px;
+        padding-left: 50px;
+        padding-top:500px;
+    }
+    .timage{
+        width: 480px;
+        height: 800px;
+        margin-left: 40px;
+    }
+    .trimage{
+        width: 480px;
+        height: 800px;
+        margin-left: 40px;
+    }
+    .frimage{
+        width: 480px;
+        height: 800px;
+        margin-left: 40px;
+    }
+    .ftimage{
+        width: 480px;
+        height: 800px;
+        margin-left: 40px;
+    }
+    .thimage{
+        margin-top: 350px;
+        height: 1000px;
+    }
+    .eimage{
+        width: 1300px;
+        margin-right: 40px;
+    }
+    .nimage{
+        width: 1300px;
+        margin-left: 40px;
+    }
+    .etext{
+        padding-top: 400px;
+        padding-left: 300px;
+        font-size: 100px;
+    }
+    .ebtext{
+        font-size: 60px;
+        padding-top: 50px;
+        padding-left: 80px;
+    }
+    .ntext{
+        padding-top: 400px;
+        padding-left: 300px;
+        font-size: 100px;
+    }
+    .nbtext{
+        font-size: 60px;
+        padding-top: 200px;
+        padding-left: 80px;
+    }
+    .atext{
+        font-size: 80px;
+    }
+    .teimage{
+        height: 1500px;
+        width: 1500px;
+    }
+    .tetext{
+        padding-top: 1000px;
+        font-size: 80px;
+    }
+    .btext{
+        font-size: 80px;
+    }
+    .lasimage{
+            height: 1000px;
+    }
+    .elimage{
+        width:480px;
+    }
+    .twimage{
+        width: 480px;
+        margin-left: 40px;
+    }
+    .terimage{
+        width: 480px;
+        margin-left: 40px;
+    }
+    .fotimage{
+        width: 480px;
+        margin-left: 40px;
+    }
+    .fifimage{
+        width: 480px;
+    }
+    .lastimage{
+        margin-top: 40px;
+    }
+    .siximage{
+        height: 1100px;
+        width: 1250px;
+        margin-right: 40px;
+    }
+    .sevimage{
+        height: 1100px;
+        width: 1250px;
+        margin-left: 40px;
+    }
+    .sixtext{
+        font-size: 70px;
+        padding-top: 70%;
+    }
+    .sevtext{
+        font-size: 70px;
+        padding-top: 70%;
+    }
+}
