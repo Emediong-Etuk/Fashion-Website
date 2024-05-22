@@ -223,51 +223,9 @@
     padding-left: 70px;
     padding-top: 60%;
 }
-/* FOOTER SECTION */
-footer {
-    background: #1A1818;
-    color: #ffffff;
-    margin-bottom: 0;
-    padding: 2px;
-}
-footer a {
-    text-decoration: none;
-    color: #ffffff;
-    display: block;
-}
-.help {
-    width: 176px;
-    height: 110px;
-}
-.space-up {
-    margin-bottom: 13px;
-}
-footer hr {
-    color: #ffffff;
-}
-.social {
-    display: flex;
-    gap: 10px;
 
-}
-.footer2 {
-    line-height: 50px;
-    justify-content: flex-start;
-    gap: 80px;
-}
-.stay {
-    margin-left: 72px;
-}
-.payment {
-    margin-left: 10px;
-}
-.poppins-regular {
-    font-family: "Poppins", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-}
 .grid {
-    padding: 10px;
+    padding: 60px 10px;
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
     grid-template-rows: 150px 0 150px;
