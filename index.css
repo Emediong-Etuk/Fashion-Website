@@ -89,51 +89,71 @@
 
 
 /* FOOTER SECTION */
-footer {
-    background: #1A1818;
-    color: #ffffff;
-    margin-bottom: 0;
-    padding: 2px;
+.grid {
+    padding: 60px 10px;
+    display: grid;
+    grid-template-columns: 25% 30% 30% 1fr;
+    grid-template-rows: 190px 0 150px;
+    background: #000000;
+    color: white;
+    list-style-type: none;
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
 }
-footer a {
+.grid a {
     text-decoration: none;
-    color: #ffffff;
-    display: block;
-}
-/* .footer {
-    width: 1000px;
-    height: 224px;
-    margin: 71px 134px 0px 50px;
-    display: flex;
-    line-height: 20px;
-    justify-content: space-between;
-} */
-.help {
-    width: 176px;
-    height: 110px;
-}
-.space-up {
-    margin-bottom: 13px;
-}
-footer hr {
-    color: #ffffff;
-}
-.social {
-    display: flex;
-    gap: 10px;
+    color: white;
 
+} 
+.grid img {
+    width: 30px;
 }
-.footer2 {
-    line-height: 50px;
-    justify-content: flex-start;
-    gap: 80px;
+hr {
+    grid-column: 1/5;
 }
-.stay {
-    margin-left: 72px;
+.pad {
+    padding-top: 40px;
 }
-.payment {
-    margin-left: 10px;
+@media screen and (max-width:746px) {
+    .grid {
+       grid-template-columns: 50% 50%;
+       grid-template-rows: 180px 180px;
+       gap: 10px;
+    }
+    .about {
+       margin-left: auto;
+       width: 200px;
+    }
+    .contact {
+        margin-left: auto;
+        width: 200px;
+    }
+    .payment {
+        margin-left: auto;
+        width: 200px;
+    }
+    hr {
+        grid-column: 1/3;
+    }
 }
+@media screen and (max-width:356px) {
+    .grid {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+    }
+    .about {
+        margin-left: 0;
+    }
+    .contact {
+        margin-left: 0;
+    }
+    .payment {
+        margin-left: 0;
+    }
+}
+
 .poppins-regular {
     font-family: "Poppins", sans-serif;
     font-weight: 400;
