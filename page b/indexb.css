@@ -228,7 +228,7 @@
     padding: 60px 10px;
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
-    grid-template-rows: 150px 0 150px;
+    grid-template-rows: 190px 0 150px;
     background: #000000;
     color: white;
     list-style-type: none;
