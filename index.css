@@ -11,6 +11,10 @@
     color:rgba(165,42,42,0.8);
 }
 
+.nav-link:hover{
+    color: white;
+    border: 2px solid white;
+}
 .piles{
     width: 400px;
     height: 500px;
@@ -85,6 +89,7 @@
     font-size: 15px;
     color: white;
 }
+
 
 
 
