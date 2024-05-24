@@ -2,6 +2,14 @@
   width: 700px;
   margin-left: 400px;
 }
+/* Hero section */
+.Hero > img {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 500px;
+}
 .blac{
   margin-right: 100px;
   padding-top: 20px;
