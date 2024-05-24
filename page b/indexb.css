@@ -19,49 +19,43 @@
     padding-left: 50px;
     font-size: 30px ;
 }
-.secimage{
-    height: 500px;
-}
+
 .simage{
     background-image: url(images/image2.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
-    width: 250px;
+    
     
 }
 .timage{
     background-image: url(images/image3.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
-    width: 250px;
-    margin-left: 30px;
+    
+    
 }
 .trimage{
     background-image: url(images/image4.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
-    width: 250px;
-    margin-left: 30px;
+    
 }
 .frimage{
     background-image: url(images/image5.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
-    width: 250px;
-    margin-left: 30px;
+    
 }
 .ftimage{
     background-image: url(images/image6.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
-    width: 250px;
-    margin-left: 30px;
+    
 }
 .stext{
     color: white;
     font-size: 20px;
     padding-top: 350px;
-    padding-left: 30px;
 }
 .ttext{
     color: white;
@@ -82,8 +76,7 @@
     padding-left: 30px;
 }
 .thimage{
-    height: 500px;
-    margin-top: 30px;
+    
 }
 .eimage{
     background-image: url(images/image7.jpeg);
@@ -103,29 +96,28 @@
     color: white;
     font-size: 40px;
     padding-top: 220px;
-    padding-left: 150px;
+    
 }
 .ebtext{
      color: white;
      font-size: 30px;
-     padding-left: 60px;
+     
      padding-top: 30px;
 }
 .ntext{
      color: white;
      font-size: 40px;
      padding-top: 230px;
-     padding-left: 150px;
+     
 }
 .nbtext{
      color: white;
      font-size: 30px;
-     padding-left: 60px;
+     
      padding-top: 70px;
 } 
 .text{
-    margin-top: 40px;
-    padding-left: 43%;
+    
 }
 .atext{
     font-size: 30px;
@@ -146,8 +138,7 @@
     padding-left: 60px;
 }
 .textb{
-    margin-top: 40px;
-    padding-left: 43%;
+    
 }
 .btext{
     font-size: 30px;
@@ -156,71 +147,31 @@
 .lasimage{
     height: 500px;
 }
-.elimage{
-    background-image: url(images/image10.jpeg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    width: 250px;
-    
-}
-.twimage{
-    background-image: url(images/image12.jpeg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    width: 250px;
-    margin-left: 30px;
-}
-.terimage{
-    background-image: url(images/image13.jpeg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    width: 250px;
-    margin-left: 30px;
-}
-.fotimage{
-    background-image: url(images/image14.jpeg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    width: 250px;
-    margin-left: 30px;
-}
-.fifimage{
-    background-image: url(images/image15.jpeg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    width: 250px;
-    margin-left: 30px;
-}
+
 .siximage{
     background-image: url(images/image16.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 535px;
-    width: 654px;
-    margin-top: 40px;
-    margin-right: 20px;
-    margin-bottom: 40px;
+   
 }
 .sixtext{
     font-size: 40px;
     padding-top: 60%;
     color: white;
-    padding-left: 80px;
+    
 }
 .sevimage{
     background-image: url(images/image17.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 535px;
-    width: 654px;
-    margin-top: 40px;
-    margin-left: 20px;
-    margin-bottom: 40px;
+    
+    
 }
 .sevtext{
     color: white;
     font-size: 40px;
-    padding-left: 70px;
     padding-top: 60%;
 }
 

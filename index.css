@@ -12,7 +12,7 @@
 }
 
 .nav-link:hover{
-    color: white;
+    color: white !important;
     border: 2px solid white;
 }
 .piles{
