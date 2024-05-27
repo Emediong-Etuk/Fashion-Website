@@ -10,6 +10,10 @@
   margin: auto;
   margin-top: 20px;
 }
+.ro {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  gap: 100px;
+}
 .redefined {
   width: 253px;
   font-weight: bold;
@@ -67,16 +71,15 @@
   margin-bottom: 2px;
 }
 .rectangle{
-  padding-top: 200px;
-  margin-left: 100px;
-  width: 950px;
+  padding-top: 50px;
+  margin: auto;
+  width: 90%;
   font-size: smaller;
-  height: 100px;
 }
 .card {
   /* Add shadows to create the "card" effect */
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  transition: 0.3s;
+  transition: 0.3s ;
 }
   
   /* On mouse-over, add a deeper shadow */
@@ -86,13 +89,15 @@
   
   /* Add some padding inside the card container */
   .container {
-  padding: 2px 16px;
+  padding-top: 2px;
+  padding-right: 16px;
 }
 .latest{
-  width: 1200px;
-  padding-left: 50px;
-  padding-top: 650px;
+  width: 90%;
+  margin: auto;
+  padding-top: 80px;
   font-size: smaller;
+  margin-bottom: 30px;
 }
 .force{
   font-size: larger;
