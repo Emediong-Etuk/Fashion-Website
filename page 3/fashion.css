@@ -10,9 +10,15 @@
   margin: auto;
   margin-top: 20px;
 }
+nav > .container-fluid > .offcanvas > .offcanvas-body > .container .form-contro {
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  width: auto;
+}
 .ro {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  gap: 100px;
+  justify-content: space-between;
 }
 .redefined {
   width: 253px;
@@ -75,6 +81,7 @@
   margin: auto;
   width: 90%;
   font-size: smaller;
+  displa
 }
 .card {
   /* Add shadows to create the "card" effect */
@@ -104,21 +111,52 @@
   font-weight: 100;
 }
 
-@media screen and (max-width:1440) {
-  
+@media screen and (max-width:1258px) {
+  .latest > .row > div {
+    width: 17rem !important;
 }
-@media screen and (max-width: 1240px) {
-  .straight{
-    height: 50px;
-    padding-bottom: 150px;
+  .ro {
+    /* gap: 55px; */
+    justify-content: space-between;
   }
-  .rectangle{
-  padding-right: 100px;
-  padding-top: 500px;
-}
-}
-@media screen and (max-width: 990) {
-  .rectangle{
-    padding-top: 200px;
+  .rectangle {
+    padding-top: 20px;
   }
+}
+@media screen and (max-width:1240px) {
+  .Hero > img {
+    height: 500px;
+  }
+  .ro {
+    gap: 0px;
+  }
+  nav > .container-fluid > .offcanvas > .offcanvas-body > .container .form-contro {
+    width: 150px;
+  }
+}
+
+@media screen and (max-width: 1230px) {
+  nav > .container-fluid > .offcanvas > .offcanvas-body > .container .form-contro {
+    width: 150px;
+    
+  }
+  .offcanvas-body img{
+    width: 100%;
+  } 
+}
+@media screen and (max-width:1200px) {
+  nav > .container-fluid > a {
+    border: 1px solid red;
+    width: 25%;
+  }
+  nav > .container-fluid > a img{
+    width: 100%;
+  }
+}
+@media screen and (max-width:1182px) {
+  .latest > .row > div {
+    width: 15rem !important;
+    margin: 0 auto;
+}
+
 }
