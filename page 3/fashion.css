@@ -146,7 +146,6 @@ nav > .container-fluid > .offcanvas > .offcanvas-body > .container .form-contro 
 }
 @media screen and (max-width:1200px) {
   nav > .container-fluid > a {
-    border: 1px solid red;
     width: 25%;
   }
   nav > .container-fluid > a img{
@@ -158,5 +157,23 @@ nav > .container-fluid > .offcanvas > .offcanvas-body > .container .form-contro 
     width: 15rem !important;
     margin: 0 auto;
 }
-
+nav > .container-fluid > a {
+  margin-top: -42px;
+  width: 20%;
+}
+nav > .container-fluid > a img{
+  width: 100%;
+  height: 100%;
+}
+.offcanvas-body li{
+ 
+ width: 70px;
+ padding: 0 !important;
+ margin: 0;
+}
+.offcanvas-body a {
+  font-size: 12px !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
 }
