@@ -81,11 +81,11 @@ nav > .container-fluid > .offcanvas > .offcanvas-body > .container .form-contro 
   margin: auto;
   width: 90%;
   font-size: smaller;
-  displa
+  
 }
 .card {
   /* Add shadows to create the "card" effect */
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  box-shadow: 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s ;
 }
   
@@ -108,7 +108,7 @@ nav > .container-fluid > .offcanvas > .offcanvas-body > .container .form-contro 
 }
 .force{
   font-size: larger;
-  font-weight: 100;
+  font-weight: 100px;
 }
 
 @media screen and (max-width:1258px) {
