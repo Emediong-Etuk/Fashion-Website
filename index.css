@@ -15,6 +15,11 @@
     color: white !important;
     border: 2px solid white;
 }
+
+.imgwidth{
+    width:80px;
+    height: 30px;
+}
 .piles{
     width: 400px;
     height: 500px;
@@ -58,12 +63,32 @@
 
 .oneleg{
     height: 400px;
+    margin-left: 25px !important;
 }
+
 .waist{
     height: 400px;
+    margin-left: 25px !important;
 }
 .bag{
     height: 400px;
+    /* margin-right: 10px !important; */
+}
+.suit{
+    height: 400px;
+    margin-left: 25px !important;
+}
+
+.suitbag{
+    height: 400px;
+    margin-left: 25px !important;
+}
+.suitbag2{
+    height: 400px;
+    margin-left: 25px !important;
+}
+
+.suitbag3{
 }
 .cap{
     height: 300px;
@@ -120,6 +145,10 @@ hr {
 .pad {
     padding-top: 40px;
 }
+
+/* MEDIA QUERIES  */
+
+
 @media screen and (max-width:746px) {
     .grid {
        grid-template-columns: 50% 50%;
